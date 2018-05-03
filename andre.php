@@ -1,7 +1,8 @@
 <?php
 
-$nome = "ezequiel";
-$sobrenome = "rubrica";
-$idade = "22";
-ech "o sobrenome de $nome é $sobrenome e ele tem $idade anos de idade";
+$firsName = "ezequiel";
+$lastName = "rubrica";
+$age = "22";
+echo "O sobrenome de $firstname é $lastname e ele tem $age anos de idade <br/>";
+
 
